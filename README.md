@@ -14,16 +14,16 @@
 
 ---
 
-## 🧠 What I Do
+##  What I Do
 
-- 🧪 Neuroscience-focused R&D (cognition, emotion, perception)
-- 🌌 Procedural fractal generation & shader development (Unity)
-- 🧰 Building tools that simulate reality, mutation, and learning
-- 📜 Theoretical physics meets visual computing (Fractal String Theory)
+-  Neuroscience-focused R&D (cognition, emotion, perception)
+-  Procedural fractal generation & shader development (Unity)
+-  Building tools that simulate reality, mutation, and learning
+-  Theoretical physics meets visual computing (Fractal String Theory)
 
 ---
 
-## 🚀 Ongoing Projects
+##  Ongoing Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📡 Reach Out
+##  Reach Out
 
 [LinkedIn](https://linkedin.com/in/yourusername)  
 [Email (ProtonMail)](mailto:cuervo@protonmail.com)  
@@ -51,5 +51,5 @@
 
 ---
 
-> *"My goal is to push human potential through natural intelligence, not artificial replacement."*  
-> — Cuervo
+> *"My goal is to push human potential through natural intelligence and brilliance."*  
+> — Corvo
