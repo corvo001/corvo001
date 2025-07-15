@@ -8,9 +8,9 @@
 
 ##  Featured Projects
 
-- 🔷 [**FractalExplorer**](https://github.com/yourusername/FractalExplorer) – A real-time fractal mutation engine with procedural visuals and AI support.
-- 🧠 [**Fractalized String Theory**](https://github.com/yourusername/FractalStringTheory) – Unified approach to spacetime geometry through dynamic fractal structures.
-- 🌿 [**Biodrink**](https://github.com/yourusername/Biodrink) – Natural nootropic beverage engineered with scientific extraction and herbolary techniques.
+-  [**FractalExplorer**](https://github.com/yourusername/FractalExplorer) – A real-time fractal mutation engine with procedural visuals and AI support.
+-  [**Fractalized String Theory**](https://github.com/yourusername/FractalStringTheory) – Unified approach to spacetime geometry through dynamic fractal structures.
+-  [**Biodrink**](https://github.com/yourusername/Biodrink) – Natural nootropic beverage engineered with scientific extraction and herbolary techniques.
 
 ---
 
