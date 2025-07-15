@@ -43,7 +43,7 @@
 ##  Reach Out
 
 [LinkedIn](https://linkedin.com/in/yourusername)  
-[Email (Gmail)](mailto:danielcuervor01@gmail.com)  
+[Email](mailto:danielcuervor01@gmail.com)  
 
 ---
 
