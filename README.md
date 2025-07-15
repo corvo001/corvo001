@@ -1,47 +1,55 @@
-#  Hi, I'm Cuervo
-
- Independent researcher focused on neuroscience, fractal computing, and theoretical physics.  
- Developer of interactive simulations using Unity.  
- Currently building a universal fractal engine with real-time visual mutation and procedural learning.
-
----
-
-##  Featured Projects
-
--  [**FractalExplorer**](https://github.com/yourusername/FractalExplorer) – A real-time fractal mutation engine with procedural visuals and AI support.
--  [**Fractalized String Theory**](https://github.com/yourusername/FractalStringTheory) – Unified approach to spacetime geometry through dynamic fractal structures.
--  [**Biodrink**](https://github.com/yourusername/Biodrink) – Natural nootropic beverage engineered with scientific extraction and herbolary techniques.
+<h1 align="center">Hi, I'm Cuervo 👾</h1>
+<p align="center">
+  Independent researcher & developer merging neuroscience, fractal geometry, and immersive technology.
+</p>
 
 ---
 
-##  Tools & Technologies
+## 🔮 Live Portfolio
 
-![Unity](https://img.shields.io/badge/Engine-Unity-white?logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp&logoColor=white)
-![ShaderLab](https://img.shields.io/badge/Shaders-ShaderLab-ff6f00)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Git](https://img.shields.io/badge/Version-Git-F05032?logo=git&logoColor=white)
+🎨 Explore interactive simulations, fractal engines, and cognitive tools built in Unity:  
+👉 **[cuervo.github.io/portfolio]([https://cuervo.github.io/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea))**
 
----
-
-##  Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)  
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+> *(Coming soon: fully interactive fractal mutation system with real-time capture and AI synthesis.)*
 
 ---
 
-##  What I'm Working On
+## 🧠 What I Do
 
-- Building a visual learning AI that evolves fractal patterns in real time.
-- Formalizing my fractal-based physics theory for academic publishing.
-- Creating experimental Unity tools for neuroscience-inspired simulations.
+- 🧪 Neuroscience-focused R&D (cognition, emotion, perception)
+- 🌌 Procedural fractal generation & shader development (Unity)
+- 🧰 Building tools that simulate reality, mutation, and learning
+- 📜 Theoretical physics meets visual computing (Fractal String Theory)
 
 ---
 
-##  Connect with Me
+## 🚀 Ongoing Projects
 
-[LinkedIn](https://linkedin.com/in/yourusername) • [email](mailto:danielcuervor01@gmail.com)
+| Project | Description | Tech |
+|--------|-------------|------|
+| [FractalExplorer](https://github.com/yourusername/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
+| [FractalPainter](https://github.com/yourusername/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
+| [Biodrink](https://github.com/yourusername/Biodrink) | Scientific formulation of natural bioactive drinks | Python, Chemistry, Bioprocess |
 
-> *“Unleashing human potential without synthetic shortcuts is a lost art.”*  
-> — Corvo
+---
+
+## 🛠️ Tech Stack
+
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ShaderLab](https://img.shields.io/badge/ShaderLab-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📡 Reach Out
+
+[LinkedIn](https://linkedin.com/in/yourusername)  
+[Email (ProtonMail)](mailto:cuervo@protonmail.com)  
+[Twitter](https://twitter.com/yourusername)
+
+---
+
+> *"My goal is to push human potential through natural intelligence, not artificial replacement."*  
+> — Cuervo
