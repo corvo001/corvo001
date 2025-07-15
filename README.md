@@ -13,6 +13,20 @@
 
 ---
 
+##  Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![ShaderLab](https://img.shields.io/badge/ShaderLab-orange)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
+---
 ##  What I Do
 
 -  Procedural fractal generation & shader development (Unity)
@@ -27,20 +41,6 @@
 |--------|-------------|------|
 | [FractalExplorer](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
 | [FractalPainter](https://github.com/corvo001/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
-
----
-
-##  Tech Stack
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![ShaderLab](https://img.shields.io/badge/ShaderLab-orange)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 
 ---
 
