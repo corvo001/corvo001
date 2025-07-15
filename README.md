@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cuervo
+#  Hi, I'm Cuervo
 
  Independent researcher focused on neuroscience, fractal computing, and theoretical physics.  
  Developer of interactive simulations using Unity.  
