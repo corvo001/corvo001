@@ -7,7 +7,9 @@
 
 ## Portfolio
 
-<p align="center> **[cuervo/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea)** </p>
+<p align="center>
+  [cuervo/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea)
+</p>
 
 > *(Coming soon: fully interactive fractal mutation system with real-time capture and AI synthesis.)*
 
