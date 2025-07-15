@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Cuervo
 
-🧠 Independent researcher focused on neuroscience, fractal computing, and theoretical physics.  
-🎮 Developer of interactive simulations using Unity.  
-🌌 Currently building a universal fractal engine with real-time visual mutation and procedural learning.
+ Independent researcher focused on neuroscience, fractal computing, and theoretical physics.  
+ Developer of interactive simulations using Unity.  
+ Currently building a universal fractal engine with real-time visual mutation and procedural learning.
 
 ---
 
