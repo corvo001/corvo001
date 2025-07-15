@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - 🔷 [**FractalExplorer**](https://github.com/yourusername/FractalExplorer) – A real-time fractal mutation engine with procedural visuals and AI support.
 - 🧠 [**Fractalized String Theory**](https://github.com/yourusername/FractalStringTheory) – Unified approach to spacetime geometry through dynamic fractal structures.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-white?logo=unity&logoColor=black)
 ![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp&logoColor=white)
@@ -24,14 +24,14 @@
 
 ---
 
-## 📊 Stats
+##  Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
 - Building a visual learning AI that evolves fractal patterns in real time.
 - Formalizing my fractal-based physics theory for academic publishing.
@@ -39,7 +39,7 @@
 
 ---
 
-## 📡 Connect with Me
+##  Connect with Me
 
 [LinkedIn](https://linkedin.com/in/yourusername) • [ProtonMail](mailto:cuervo@protonmail.com) • [Twitter](https://twitter.com/yourusername)
 
