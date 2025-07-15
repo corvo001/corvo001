@@ -1,4 +1,4 @@
-<h1 align="center">👁Hi, I'm Cuervo👁</h1>
+<h1 align="center">𓁼Hi, I'm Cuervo𓁼</h1>
 <p align="center">
   Independent researcher & developer merging neuroscience, fractal geometry, and immersive technology.
 </p>
