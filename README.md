@@ -44,8 +44,7 @@
 ##  Reach Out
 
 [LinkedIn](https://linkedin.com/in/yourusername)  
-[Email (ProtonMail)](mailto:cuervo@protonmail.com)  
-[Twitter](https://twitter.com/yourusername)
+[Email (Gmail)](mailto:danielcuervor01@gmail.com)  
 
 ---
 
