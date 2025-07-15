@@ -27,13 +27,6 @@
 
 
 ---
-##  What I Do
-
--  Procedural fractal generation & shader development (Unity)
--  Building tools that simulate reality, mutation, and learning
--  Theoretical physics meets visual computing (Fractal String Theory)
-
----
 
 ##  Ongoing Projects
 
@@ -41,6 +34,14 @@
 |--------|-------------|------|
 | [FractalExplorer](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
 | [FractalPainter](https://github.com/corvo001/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
+
+---
+
+##  What I Do
+
+-  Procedural fractal generation & shader development (Unity)
+-  Building tools that simulate reality, mutation, and learning
+-  Theoretical physics meets visual computing (Fractal String Theory)
 
 ---
 
