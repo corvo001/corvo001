@@ -15,7 +15,6 @@
 
 ##  What I Do
 
--  Neuroscience-focused R&D (cognition, emotion, perception)
 -  Procedural fractal generation & shader development (Unity)
 -  Building tools that simulate reality, mutation, and learning
 -  Theoretical physics meets visual computing (Fractal String Theory)
