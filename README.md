@@ -8,7 +8,7 @@
 ## 🔮 Live Portfolio
 
 🎨 Explore interactive simulations, fractal engines, and cognitive tools built in Unity:  
-👉 **[cuervo.github.io/portfolio]([https://cuervo.github.io/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea))**
+👉 **[cuervo/portfolio](https://cuervo.github.io/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea))**
 
 > *(Coming soon: fully interactive fractal mutation system with real-time capture and AI synthesis.)*
 
@@ -27,9 +27,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [FractalExplorer](https://github.com/yourusername/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
-| [FractalPainter](https://github.com/yourusername/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
-| [Biodrink](https://github.com/yourusername/Biodrink) | Scientific formulation of natural bioactive drinks | Python, Chemistry, Bioprocess |
+| [FractalExplorer](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
+| [FractalPainter](https://github.com/corvo001/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
 
 ---
 
