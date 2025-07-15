@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cuervo 𓁹</h1>
 <p align="center">
-  Independent researcher & developer merging fractal geometry and immersive technology.
+  Developer & researcher merging fractal geometry and immersive technology.
 </p>
 
 ---
