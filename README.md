@@ -5,10 +5,10 @@
 
 ---
 
-## 🔮 Live Portfolio
+## Portfolio
 
 🎨 Explore interactive simulations, fractal engines, and cognitive tools built in Unity:  
-👉 **[cuervo/portfolio](https://cuervo.github.io/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea))**
+👉 **[cuervo/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea)**
 
 > *(Coming soon: fully interactive fractal mutation system with real-time capture and AI synthesis.)*
 
