@@ -41,7 +41,7 @@
 
 ##  Connect with Me
 
-[LinkedIn](https://linkedin.com/in/yourusername) • [ProtonMail](mailto:cuervo@protonmail.com) • [Twitter](https://twitter.com/yourusername)
+[LinkedIn](https://linkedin.com/in/yourusername) • [email](mailto:danielcuervor01@gmail.com)
 
 > *“Unleashing human potential without synthetic shortcuts is a lost art.”*  
 > — Corvo
