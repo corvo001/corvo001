@@ -36,7 +36,7 @@
 
 ##  About Me
 
-I’m Cuervo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
+I’m Corvo a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
 
 Currently focused on:
 - Generative fractal engines & hybrid shaders
