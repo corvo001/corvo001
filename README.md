@@ -10,7 +10,7 @@
   <a href="mailto:danielcuervor01@gmail.com">
      Email
   </a> •
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/danielcuervor/">
      LinkedIn
   </a>
 </p>
