@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">
-    📂 Portfolio
+     Portfolio
   </a> •
   <a href="mailto:danielcuervor01@gmail.com">
-    ✉️ Email
+     Email
   </a> •
   <a href="https://linkedin.com/in/yourusername">
-    💼 LinkedIn
+     LinkedIn
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Currently focused on:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   
@@ -46,7 +46,7 @@ Currently focused on:
 
 ---
 
-## 🔭 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -56,16 +56,16 @@ Currently focused on:
 
 ---
 
-## 🧩 What Drives Me
+##  What Drives Me
 
-- ✳️ Pushing computation toward **organic pattern emergence**
-- 🧠 Exploring **neuroplasticity through fractal visualization**
-- 🔬 Applying **mathematical structures to human potential**
-- 🕳️ Building bridges between **theoretical physics and creative coding**
+-  Pushing computation toward **organic pattern emergence**
+-  Exploring **neuroplasticity through fractal visualization**
+-  Applying **mathematical structures to human potential**
+-  Building bridges between **theoretical physics and creative coding**
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername">🌐 LinkedIn</a> •
@@ -73,12 +73,5 @@ Currently focused on:
   <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">📁 Portfolio</a>
 </p>
 
----
-
-## 🧭 Philosophy
-
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
-
----
-
