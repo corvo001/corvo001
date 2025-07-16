@@ -17,18 +17,6 @@
 
 ---
 
-##  About Me
-
-I’m Cuervo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
-
-Currently focused on:
-- Generative fractal engines & hybrid shaders
-- Procedural art pipelines based on pattern evolution
-- Neural feedback systems in real-time graphics
-- Fractal String Theory (physics & computing integration)
-
----
-
 ##  Stack
 
 <div align="center">
@@ -56,12 +44,16 @@ Currently focused on:
 
 ---
 
-##  What Drives Me
+##  About Me
 
--  Pushing computation toward **organic pattern emergence**
--  Exploring **neuroplasticity through fractal visualization**
--  Applying **mathematical structures to human potential**
--  Building bridges between **theoretical physics and creative coding**
+I’m Cuervo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
+
+Currently focused on:
+- Generative fractal engines & hybrid shaders
+- Procedural art pipelines based on pattern evolution
+- Neural feedback systems in real-time graphics
+- Fractal String Theory (physics & computing integration)
+
 ---
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
