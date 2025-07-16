@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I’m Cuervo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
 
@@ -29,7 +29,7 @@ Currently focused on:
 
 ---
 
-##  Tech Stack
+##  Stack
 
 <div align="center">
   
