@@ -8,8 +8,6 @@
      Portfolio
   </a> 
   
----
-
 ##  Stack
 
 <div align="center">
