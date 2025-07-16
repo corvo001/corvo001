@@ -6,15 +6,8 @@
 <p align="center">
   <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">
      Portfolio
-  </a> •
-  <a href="mailto:danielcuervor01@gmail.com">
-     Email
-  </a> •
-  <a href="https://linkedin.com/in/danielcuervor/">
-     LinkedIn
-  </a>
-</p>
-
+  </a> 
+  
 ---
 
 ##  Stack
