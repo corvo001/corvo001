@@ -1,50 +1,84 @@
 <h1 align="center">Hi, I'm Cuervo 𓁹</h1>
 <p align="center">
-  Developer & Researcher merging fractal geometry and immersive technology.
+  <em>Developer, fractal researcher, and visual systems architect</em>  
 </p>
 
-  [cuervo/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea)
+<p align="center">
+  <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">
+    📂 Portfolio
+  </a> •
+  <a href="mailto:danielcuervor01@gmail.com">
+    ✉️ Email
+  </a> •
+  <a href="https://linkedin.com/in/yourusername">
+    💼 LinkedIn
+  </a>
+</p>
 
 ---
 
-##  Stack
+## 🧠 About Me
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![ShaderLab](https://img.shields.io/badge/ShaderLab-orange)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I’m Cuervo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
 
-
+Currently focused on:
+- Generative fractal engines & hybrid shaders
+- Procedural art pipelines based on pattern evolution
+- Neural feedback systems in real-time graphics
+- Fractal String Theory (physics & computing integration)
 
 ---
 
-##  Ongoing Projects
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+  ![ShaderLab](https://img.shields.io/badge/ShaderLab-orange?style=flat-square)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🔭 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [FractalExplorer](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with mutation, interpolation & neural feedback | Unity, C#, ShaderLab |
-| [FractalPainter](https://github.com/corvo001/FractalPainter) | A fractal-drawing interface blending image inputs with recursive geometry | Unity, UI Toolkit |
+| [**FractalExplorer**](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with procedural mutation, visual interpolation, and pattern export | Unity, ShaderLab, C# |
+| [**FractalPainter**](https://github.com/corvo001/FractalPainter) | Interactive fractal canvas blending image input with recursive rendering | Unity, UI Toolkit |
+| *Visual Fractal AI (in progress)* | Neural generation of new fractal structures from dataset evolution | Unity, Python, Vision Transformers |
 
 ---
 
-##  What I Do
+## 🧩 What Drives Me
 
--  Procedural fractal generation & shader development (Unity)
--  Building tools that simulate reality, mutation, and learning
--  Theoretical physics meets visual computing (Fractal String Theory)
+- ✳️ Pushing computation toward **organic pattern emergence**
+- 🧠 Exploring **neuroplasticity through fractal visualization**
+- 🔬 Applying **mathematical structures to human potential**
+- 🕳️ Building bridges between **theoretical physics and creative coding**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">🌐 LinkedIn</a> •
+  <a href="mailto:danielcuervor01@gmail.com">📥 Email</a> •
+  <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">📁 Portfolio</a>
+</p>
 
 ---
 
-##  Reach Out
-
-[LinkedIn](https://linkedin.com/in/yourusername)  
-[Email](mailto:danielcuervor01@gmail.com)  
-
----
+## 🧭 Philosophy
 
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
+
+---
+
