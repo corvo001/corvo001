@@ -63,15 +63,5 @@ Currently focused on:
 -  Applying **mathematical structures to human potential**
 -  Building bridges between **theoretical physics and creative coding**
 
----
-
-##  Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername">🌐 LinkedIn</a> •
-  <a href="mailto:danielcuervor01@gmail.com">📥 Email</a> •
-  <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">📁 Portfolio</a>
-</p>
-
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
