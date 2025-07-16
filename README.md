@@ -62,7 +62,6 @@ Currently focused on:
 -  Exploring **neuroplasticity through fractal visualization**
 -  Applying **mathematical structures to human potential**
 -  Building bridges between **theoretical physics and creative coding**
-  
-
+---
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
