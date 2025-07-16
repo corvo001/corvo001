@@ -3,8 +3,6 @@
   Developer & Researcher merging fractal geometry and immersive technology.
 </p>
 
----
-
   [cuervo/portfolio](https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea)
 
 ---
