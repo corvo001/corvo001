@@ -41,7 +41,6 @@ I’m Corvo a systems thinker merging **fractal geometry**, **visual computing**
 Currently focused on:
 - Science of data
 - Generative fractal engines & hybrid shaders
-- Procedural art pipelines based on pattern evolution
 - Neural feedback systems in real-time graphics
 - Fractal String Theory (physics & computing integration)
 
