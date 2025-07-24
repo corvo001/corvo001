@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Corvo 𓁹</h1>
+<h1 align="center">Hi, I'm Corvo</h1>
 <p align="center">
   <em>Developer, fractal researcher, and visual systems architect</em>  
 </p>
