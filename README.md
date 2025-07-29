@@ -18,7 +18,7 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
   ![ShaderLab](https://img.shields.io/badge/ShaderLab-orange?style=flat-square)
   ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-  ![GLSL](https://img.shields.io/badge/GLSL-FF7F50?style=flat-square&logo=codeforces&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
