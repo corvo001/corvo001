@@ -31,7 +31,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**FractalExplorer**](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with procedural mutation, visual interpolation, and pattern export | Unity, ShaderLab, C# |
-| [**FractalPainter**](https://github.com/corvo001/FractalPainter) | Interactive fractal canvas blending image input with recursive rendering | Unity, UI Toolkit, C# |
+| [**FractalPainter**](https://github.com/corvo001/FractalPainter) | Interactive fractal canvas blending image input with recursive rendering | Unity, ShaderLab, C# |
 | [**Raven**](https://github.com/corvo001/Raven) | AI focused on the development of visual data | Python |
 ---
 
