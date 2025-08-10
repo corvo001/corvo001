@@ -27,17 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem merging fractals, AI, and real-time rendering for visual and scientific innovation. | C++, Python, Julia, Rust |
-| [**FractalExplorer**](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with procedural mutation, visual interpolation, and pattern export | Unity, ShaderLab, C# |
-| [**FractalPainter**](https://github.com/corvo001/FractalPainter) | Interactive fractal canvas blending image input with recursive rendering | Unity, ShaderLab, C# |
-| [**Raven**](https://github.com/corvo001/Raven) | AI focused on the development of visual data | Python |
-
----
-
 ## 📊 Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
