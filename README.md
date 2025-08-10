@@ -56,7 +56,6 @@ Currently focused on:
 - Data science
 - Generative fractal engines & procedural shaders
 - Neural feedback systems in real-time graphics
-- Fractal String Theory (physics & computing integration)
 
 > *"My goal is to push human potential through natural intelligence and brilliance."*  
 > — Corvo
