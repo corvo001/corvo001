@@ -27,17 +27,6 @@
 
 ---
 
-## 📊 Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corvo001&show_icons=true&locale=en&layout=compact" alt="Top Langs">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvo001" alt="GitHub Streak">
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -48,6 +37,16 @@
 
 ---
 
+## 📊 Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corvo001&show_icons=true&locale=en&layout=compact" alt="Top Langs">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corvo001" alt="GitHub Streak">
+</p>
+
+---
 ## 👤 About Me
 
 I’m Corvo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
