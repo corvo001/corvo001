@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://danielcuervo.notion.site/Portfolio-20b6ad1cd22f802fa76dd74a60e823ea">
+  <a href="https://corvo001.github.io/">
      Portfolio
   </a>  
 </p>
