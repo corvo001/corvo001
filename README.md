@@ -33,6 +33,7 @@
 | [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem merging fractals, AI, and real-time rendering for visual and scientific innovation. | C++, Python, Rust, Julia |
 | [**FractalExplorer**](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with procedural mutation, visual interpolation, and pattern export | Unity, ShaderLab, C# |
 | [**FractalPainter**](https://github.com/corvo001/FractalPainter) | Interactive fractal canvas blending image input with recursive rendering | Unity, ShaderLab, C# |
+| [**DysonSphere**](https://github.com/corvo001/DysonSphere) | Real-time swarm surrounding the star, visual interpolation, and pattern export | C++ |
 | [**Raven**](https://github.com/corvo001/Raven) | AI focused on the development of visual data | Python |
 
 ---
