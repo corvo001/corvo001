@@ -41,7 +41,7 @@
 ##  Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corvo001&show_icons=true&locale=en&layout=compact&cache_seconds=86400&v=2" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corvo001&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Top Langs">
 </p>
 
 ---
