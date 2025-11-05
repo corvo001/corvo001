@@ -32,7 +32,7 @@
 |--------|-------------|------|
 | [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem merging fractals, AI, and real-time rendering for visual and scientific innovation. | C++, Python, Rust, Julia |
 | [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm surrounding the star, visual interpolation, and pattern export | C++ |
-| [**Hovercraft-Simulator**](https://github.com/corvo001/Hovercraft-Simulator) | Real-time simulation of a parametrized hovercraft and its physics reactions | Python |
+| [**Hovercraft**](https://github.com/corvo001/Hovercraft-Simulator) | Real-time simulation of a parametrized hovercraft and its physics reactions | Python |
 | [**FractalExplorer**](https://github.com/corvo001/FractalExplorer) | Real-time fractal engine with procedural mutation, visual interpolation, and pattern export | Unity, ShaderLab, C# |
 | [**Raven**](https://github.com/corvo001/Raven) | AI focused on the development of visual data | Python |
 
