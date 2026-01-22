@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Corvo</h1>
 <p align="center">
-  <em>Developer, fractal researcher, and visual systems architect</em>  
+  <em>Software Developer · Automation · Systems-oriented</emem>  
 </p>
 
 <p align="center">
@@ -48,12 +48,16 @@
 
 ##  About Me
 
-I’m Corvo — a systems thinker merging **fractal geometry**, **visual computing**, and **immersive procedural technologies**.
+I’m Corvo — a developer focused on building reliable systems and automation.
 
 Currently focused on:
-- Data science
-- Generative fractal engines & procedural shaders
-- Neural feedback systems in real-time graphics
+- Automation of repetitive and error-prone processes
+- Tooling and scripting for developer productivity
+- Systems thinking: understanding how parts interact under real constraints
+- Writing code that is maintainable, testable and explicit
 
-> *"My goal is to push human potential through natural intelligence and brilliance."*  
+My background includes simulation, mathematical experimentation and low-level development, used as a foundation for pragmatic software construction.
+
+
+> *"I prioritize clarity, correctness and long-term maintainability over trend-driven complexity."*  
 > — Corvo
