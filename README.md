@@ -1,43 +1,47 @@
 <h1 align="center">Hi, I'm Corvo</h1>
 <p align="center">
-  <em>Software Developer · Automation · Systems-oriented</emem>  
+  <em>Systems Engineer · Automation · Scientific & Real-Time Software</em>
 </p>
 
 <p align="center">
-  <a href="https://corvo001.github.io/">
-     Portfolio
-  </a>  
+  <a href="https://corvo001.github.io/">Portfolio</a>
 </p>
 
 ---
 
-##  Stack
+##  Core Technologies
 
 <div align="center">
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-  ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 </div>
+
+<p align="center">
+Simulation · Real-Time Rendering · Systems Automation · Data Processing
+</p>
 
 ---
 
 ##  Featured Projects
 
+Projects focused on **real-time systems, simulation, and scientific software tooling**.
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem merging fractals, AI, and real-time rendering for visual and scientific innovation. | C++, Python, Rust, Julia |
-| [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm surrounding the star, visual interpolation, and pattern export | C++ |
-| [**Hovercraft**](https://github.com/corvo001/Hovercraft-Simulator) | Real-time simulation of a parametrized hovercraft and its physics reactions | Python |
-| [**Raven**](https://github.com/corvo001/Raven) | AI focused on the development of visual data | Python |
+| [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem combining fractals, AI, and real-time rendering for visual and scientific exploration. | C++, Python, Rust, Julia |
+| [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm simulation with visual interpolation and structured pattern export. | C++ |
+| [**Hovercraft**](https://github.com/corvo001/Hovercraft-Simulator) | Parametric hovercraft simulation with dynamic physics modeling and control experimentation. | Python |
+| [**Raven**](https://github.com/corvo001/Raven) | Experimental AI environment focused on visual data processing and analysis pipelines. | Python |
 
 ---
 
-##  Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-two-beryl-10.vercel.app/api?username=corvo001&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
@@ -48,12 +52,19 @@
 
 ##  About Me
 
-I’m Corvo — a developer focused on building reliable systems and automation.
+I’m Corvo — a systems-oriented developer focused on building **reliable automation and technical software**.
 
-Currently focused on:
-- Automation of repetitive and error-prone processes
-- Tooling and scripting for developer productivity
-- Systems thinking: understanding how parts interact under real constraints
+### Current Focus
+• Automation of complex and repetitive workflows  
+• Developer tooling and productivity systems  
+• Systems thinking under real-world constraints  
 
-> *"My background includes simulation, mathematical experimentation and low-level development, used as a foundation for pragmatic software construction."*  
-> — Corvo
+Background in **simulation, mathematical experimentation, and low-level development**, applied to pragmatic and maintainable software engineering.
+
+---
+
+##  Currently Exploring
+
+• Scalable automation pipelines  
+• Real-time data visualization  
+• Hybrid Python + C++ system architectures  
