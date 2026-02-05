@@ -55,10 +55,6 @@ Currently focused on:
 - Automation of repetitive and error-prone processes
 - Tooling and scripting for developer productivity
 - Systems thinking: understanding how parts interact under real constraints
-- Writing code that is maintainable, testable and explicit
 
-My background includes simulation, mathematical experimentation and low-level development, used as a foundation for pragmatic software construction.
-
-
-> *"I prioritize clarity, correctness and long-term maintainability over trend-driven complexity."*  
+> *"My background includes simulation, mathematical experimentation and low-level development, used as a foundation for pragmatic software construction."*  
 > — Corvo
