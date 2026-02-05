@@ -42,6 +42,7 @@
 
 <p align="center">
  <img src="https://github-readme-stats-two-beryl-10.vercel.app/api/top-langs?username=corvo001&layout=compact&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-beryl-10.vercel.app/api?username=corvo001&show_icons=true&cache_seconds=86400" />
 </p>
 
 ---
