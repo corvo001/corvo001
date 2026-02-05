@@ -61,12 +61,3 @@ I’m Corvo — a systems-oriented developer focused on building **reliable auto
 • Systems thinking under real-world constraints  
 
 Background in **simulation, mathematical experimentation, and low-level development**, applied to pragmatic and maintainable software engineering.
-
----
-
-##  Currently Exploring
-
-• Scalable automation pipelines  
-• Real-time data visualization  
-• Hybrid Python + C++ system architectures  
-
