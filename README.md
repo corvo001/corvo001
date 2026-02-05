@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Corvo</h1>
+
 <p align="center">
-  <em>Systems Developer · Automation · Scientific & Real-Time Software</em>
+  <em>Systems-Oriented Developer · Automation · Scientific & Real-Time Software</em>
 </p>
 
 <p align="center">
@@ -68,3 +69,4 @@ Background in **simulation, mathematical experimentation, and low-level developm
 • Scalable automation pipelines  
 • Real-time data visualization  
 • Hybrid Python + C++ system architectures  
+
