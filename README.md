@@ -37,7 +37,6 @@ Projects focused on **real-time systems, simulation, and scientific software too
 |--------|-------------|------|
 | [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem combining fractals, AI, and real-time rendering for visual and scientific exploration. | C++, Python, Rust, Julia |
 | [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm simulation with visual interpolation and structured pattern export. | C++ |
-| [**Hovercraft**](https://github.com/corvo001/Hovercraft-Simulator) | Parametric hovercraft simulation with dynamic physics modeling and control experimentation. | Python |
 | [**Raven**](https://github.com/corvo001/Raven) | Experimental AI environment focused on visual data processing and analysis pipelines. | Python |
 
 ---
