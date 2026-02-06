@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Corvo</h1>
 
 <p align="center">
-  <em>Systems-Oriented Developer · Automation · Scientific & Real-Time Software</em>
+  <em>Automation Developer</em>
 </p>
 
 <p align="center">
