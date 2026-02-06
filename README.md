@@ -38,7 +38,7 @@ Projects focused on **real-time systems, simulation, and scientific software too
 | [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem combining fractals, AI, and real-time rendering for visual and scientific exploration. | C++, Python, Rust, Julia |
 | [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm simulation with visual interpolation and structured pattern export. | C++ |
 | [**Raven**](https://github.com/corvo001/Raven) | Experimental AI environment focused on visual data processing and analysis pipelines. | Python |
-
+| [**SoundCloud Downloader**](https://github.com/corvo001/soundcloud-downloader) | Utility tool to download full SoundCloud playlists in real audio formats without transcoding, preserving metadata and DJ-ready file structures. | Python |
 ---
 
 ##  GitHub Stats
