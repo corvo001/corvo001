@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Corvo</h1>
 
 <p align="center">
-  <em>Automation Developer</em>
+  <em>Industrial Automation Developer</em>
 </p>
 
 <p align="center">
