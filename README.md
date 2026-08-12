@@ -1,4 +1,4 @@
-<img width="1000" height="320" alt="corvo-profile-animation-transparent-green-v39(1)" src="https://github.com/user-attachments/assets/23741cd8-3818-4213-983a-e2f1a860c25c" />
+<img width="1000" height="320" alt="corvo-profile-animation-github-adaptive-v41" src="https://github.com/user-attachments/assets/403c98e9-015c-41a0-a993-421e1aadb555" />
 
 ##  Featured Projects
 
