@@ -2304,7 +2304,7 @@
     
     <path class="logo-stroke logo-draw" d="M97 101 Q150 48 203 101 Q150 154 97 101 Z" />
     <circle class="logo-stroke logo-draw" cx="150" cy="101" r="16.5" />
-    <circle class="logo-accent pupil eye-pupil" cx="150" cy="101" r="5" />
+    <circle class="logo-accent green pupil eye-pupil" cx="150" cy="101" r="5" />
 
     
     <path class="logo-stroke ray-draw" d="M150 12 L150 53" />
