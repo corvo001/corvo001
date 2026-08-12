@@ -19,16 +19,3 @@ Projects focused on **real-time systems, simulation, and scientific software too
   <img src="https://github-readme-stats-two-beryl-10.vercel.app/api?username=corvo001&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
   <img src="https://github-readme-stats-two-beryl-10.vercel.app/api/top-langs?username=corvo001&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 </p>
-
----
-
-##  About Me
-
-I’m Corvo — a systems-oriented developer focused on building **reliable automation and technical software**.
-
-### Current Focus
-• Automation of complex and repetitive workflows  
-• Developer tooling and productivity systems  
-• Systems thinking under real-world constraints  
-
-Background in **simulation, mathematical experimentation, and low-level development**, applied to pragmatic and maintainable software engineering.
