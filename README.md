@@ -2,8 +2,6 @@
 
 ##  Featured Projects
 
-Projects focused on **real-time systems, simulation, and scientific software tooling**.
-
 | Project | Description | Tech |
 |--------|-------------|------|
 | [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem combining fractals, AI, and real-time rendering for visual and scientific exploration. | C++, Python, Rust, Julia |
