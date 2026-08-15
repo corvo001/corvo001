@@ -2319,19 +2319,19 @@
     <path class="logo-stroke logo-draw" d="M190 112 L190 133" />
 
     
-    <g transform="translate(0,133) scale(1,.9) translate(0,-151)">
+    <g transform="translate(0,133) scale(1,.96) translate(0,-151)">
       <path class="logo-stroke logo-draw" d="M110 151 C99 161 100 178 110 190 C120 178 121 161 110 151 Z" />
       <path class="logo-stroke logo-draw" d="M110 156 L110 185 M110 163 L104 171 M110 169 L116 177 M110 176 L105 182" />
     </g>
 
     
-    <g transform="translate(0,148) scale(1,.92) translate(0,-170)">
+    <g transform="translate(0,148) scale(1,.97) translate(0,-170)">
       <path class="logo-stroke logo-draw" d="M150 170 C136 185 137 208 150 224 C163 208 164 185 150 170 Z" />
       <path class="logo-stroke logo-draw" d="M150 176 L150 218 M150 185 L141 196 M150 194 L159 205 M150 205 L142 213" />
     </g>
 
     
-    <g transform="translate(0,133) scale(1,.9) translate(0,-151)">
+    <g transform="translate(0,133) scale(1,.96) translate(0,-151)">
       <path class="logo-stroke logo-draw" d="M190 151 C179 161 180 178 190 190 C200 178 201 161 190 151 Z" />
       <path class="logo-stroke logo-draw" d="M190 156 L190 185 M190 163 L184 171 M190 169 L196 177 M190 176 L185 182" />
     </g>
