@@ -2314,21 +2314,21 @@
     <path class="logo-stroke ray-draw" d="M190 50 L178 66" />
 
     
-    <path class="logo-stroke logo-draw" d="M110 116 L110 140" />
-    <path class="logo-stroke logo-draw" d="M150 124 L150 154" />
-    <path class="logo-stroke logo-draw" d="M190 116 L190 140" />
+    <path class="logo-stroke logo-draw" d="M110 116 L110 143" />
+    <path class="logo-stroke logo-draw" d="M150 124 L150 160" />
+    <path class="logo-stroke logo-draw" d="M190 116 L190 143" />
 
     
-    <path class="logo-stroke logo-draw" d="M110 140 C101 148 100 161 110 174 C120 161 119 148 110 140 Z" />
-    <path class="logo-stroke logo-draw" d="M110 144 L110 170 M110 149 L103 156 M110 149 L117 156 M110 158 L104 165 M110 158 L116 165" />
+    <path class="logo-stroke logo-draw" d="M110 143 C99 153 100 170 110 182 C120 170 121 153 110 143 Z" />
+    <path class="logo-stroke logo-draw" d="M110 148 L110 177 M110 155 L104 163 M110 161 L116 169 M110 168 L105 174" />
 
     
-    <path class="logo-stroke logo-draw" d="M150 154 C137 167 137 189 150 208 C163 189 163 167 150 154 Z" />
-    <path class="logo-stroke logo-draw" d="M150 159 L150 203 M150 168 L141 178 M150 168 L159 178 M150 181 L140 192 M150 181 L160 192" />
+    <path class="logo-stroke logo-draw" d="M150 160 C136 175 137 198 150 214 C163 198 164 175 150 160 Z" />
+    <path class="logo-stroke logo-draw" d="M150 166 L150 208 M150 175 L141 186 M150 184 L159 195 M150 195 L142 203" />
 
     
-    <path class="logo-stroke logo-draw" d="M190 140 C181 148 180 161 190 174 C200 161 199 148 190 140 Z" />
-    <path class="logo-stroke logo-draw" d="M190 144 L190 170 M190 149 L183 156 M190 149 L197 156 M190 158 L184 165 M190 158 L196 165" />
+    <path class="logo-stroke logo-draw" d="M190 143 C179 153 180 170 190 182 C200 170 201 153 190 143 Z" />
+    <path class="logo-stroke logo-draw" d="M190 148 L190 177 M190 155 L184 163 M190 161 L196 169 M190 168 L185 174" />
   </g>
 
   
