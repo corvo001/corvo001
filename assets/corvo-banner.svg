@@ -54,7 +54,7 @@
         animation: rays 20s ease-in-out infinite;
       }
 
-      .fade-1, .fade-2, .fade-3, .fade-4 {
+      .fade-1, .fade-2, .fade-3, .fade-4, .fade-5 {
         opacity: 0;
         animation-duration: 20s;
         animation-iteration-count: infinite;
@@ -64,6 +64,7 @@
       .fade-2 { animation-name: fade2; }
       .fade-3 { animation-name: fade3; }
       .fade-4 { animation-name: fade4; }
+      .fade-5 { animation-name: fade5; }
 
       .cursor {
         opacity: 0;
@@ -117,8 +118,14 @@
       }
 
       @keyframes fade4 {
-        0%, 58% { opacity: 0; transform: translateY(4px); }
-        64%, 86% { opacity: 1; transform: translateY(0); }
+        0%, 55.8% { opacity: 0; transform: translateY(4px); }
+        58.2%, 86% { opacity: 1; transform: translateY(0); }
+        96%,100% { opacity: 0; }
+      }
+
+      @keyframes fade5 {
+        0%, 59.2% { opacity: 0; transform: translateY(4px); }
+        62.2%, 86% { opacity: 1; transform: translateY(0); }
         96%,100% { opacity: 0; }
       }
 
@@ -203,8 +210,10 @@
         54.000%      { opacity:.00; transform:translate(28px,0); filter:url(#glitchRGB); }
         54.500%      { opacity:.18; transform:translate(-12px,-1px); filter:url(#glitchRGB); }
         55.000%      { opacity:.00; transform:translate(0,0); filter:none; }
-        55.500%      { opacity:.30; transform:translate(6px,0); filter:none; }
-        60%,100% { opacity:1; transform:translate(0,0); filter:none; }
+        55.250%      { opacity:.16; transform:translate(-4px,0); filter:none; }
+        55.500%      { opacity:.48; transform:translate(2px,0); filter:none; }
+        55.700%      { opacity:.82; transform:translate(-1px,0); filter:none; }
+        55.800%,100% { opacity:1; transform:translate(0,0); filter:none; }
       }
 
 
@@ -491,7 +500,7 @@
         54.900% {opacity:.68}
         55.200% {opacity:.92}
         55.500% {opacity:.30}
-        59.6%,100% {opacity:0}
+        55.700%,100% {opacity:0}
       }
 
       @keyframes v1 {
@@ -2356,11 +2365,11 @@
       C++ · Python · Rust
     </text>
 
-    <text class="text muted fade-4" x="0" y="195" font-size="14">
+    <text class="text muted fade-5" x="0" y="195" font-size="14">
       SIMULATION / AUTOMATION
     </text>
 
-    <g class="fade-4">
+    <g class="fade-5">
       <rect class="cursor" x="0" y="212" width="10" height="22" rx="1" fill="#7fdc9a" />
     </g>
   </g>
