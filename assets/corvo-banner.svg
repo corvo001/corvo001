@@ -2302,7 +2302,7 @@
   
   <g transform="translate(61,19.5) scale(1.06)">
     
-    <path class="logo-stroke logo-draw" d="M97 101 Q150 56 203 101 Q150 146 97 101 Z" />
+    <path class="logo-stroke logo-draw" d="M97 101 Q150 52 203 101 Q150 150 97 101 Z" />
     <circle class="logo-stroke logo-draw" cx="150" cy="101" r="16.5" />
     <circle class="logo-accent pupil eye-pupil" cx="150" cy="101" r="3.4" style="fill:#7fdc9a" />
 
@@ -2314,24 +2314,24 @@
     <path class="logo-stroke ray-draw" d="M190 50 L178 66" />
 
     
-    <path class="logo-stroke logo-draw" d="M110 116 L110 143" />
-    <path class="logo-stroke logo-draw" d="M150 130 L150 160" />
-    <path class="logo-stroke logo-draw" d="M190 116 L190 143" />
+    <path class="logo-stroke logo-draw" d="M110 116 L110 138" />
+    <path class="logo-stroke logo-draw" d="M150 130 L150 154" />
+    <path class="logo-stroke logo-draw" d="M190 116 L190 138" />
 
     
-    <g transform="translate(0,-8)">
+    <g transform="translate(0,-13)">
       <path class="logo-stroke logo-draw" d="M110 151 C99 161 100 178 110 190 C120 178 121 161 110 151 Z" />
       <path class="logo-stroke logo-draw" d="M110 156 L110 185 M110 163 L104 171 M110 169 L116 177 M110 176 L105 182" />
     </g>
 
     
-    <g transform="translate(0,-10)">
+    <g transform="translate(0,-16)">
       <path class="logo-stroke logo-draw" d="M150 170 C136 185 137 208 150 224 C163 208 164 185 150 170 Z" />
       <path class="logo-stroke logo-draw" d="M150 176 L150 218 M150 185 L141 196 M150 194 L159 205 M150 205 L142 213" />
     </g>
 
     
-    <g transform="translate(0,-8)">
+    <g transform="translate(0,-13)">
       <path class="logo-stroke logo-draw" d="M190 151 C179 161 180 178 190 190 C200 178 201 161 190 151 Z" />
       <path class="logo-stroke logo-draw" d="M190 156 L190 185 M190 163 L184 171 M190 169 L196 177 M190 176 L185 182" />
     </g>
