@@ -2300,7 +2300,7 @@
 
   <g class="mem-corrupt"><text class="mem-frag m1" x="84" y="76">ERROR 8277</text><text class="mem-frag m1" x="438" y="142">0O3 448</text><text class="mem-frag m1" x="760" y="214">1 0</text><text class="mem-frag m2" x="192" y="196">448</text><text class="mem-frag m2" x="548" y="86">ERROR</text><text class="mem-frag m2" x="830" y="276">8277 0</text></g><g class="main-content">
   
-  <g transform="translate(61,19.5) scale(1.06)">
+  <g transform="translate(24,40) scale(1.14)">
     
     <path class="logo-stroke logo-draw" d="M97 101 Q150 52 203 101 Q150 150 97 101 Z" />
     <circle class="logo-stroke logo-draw" cx="150" cy="101" r="16.5" />
