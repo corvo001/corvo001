@@ -6,16 +6,6 @@
   />
 </p>
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**UNION**](https://github.com/corvo001/UNION) | Modular ecosystem combining fractals, AI, and real-time rendering for visual and scientific exploration. | C++, Python, Rust |
-| [**DysonSwarm**](https://github.com/corvo001/DysonSphere) | Real-time swarm simulation with visual interpolation and structured pattern export. | C++ |
-| [**SoundCloud Downloader**](https://github.com/corvo001/soundcloud-downloader) | Utility tool to download full SoundCloud playlists in real audio. | Python |
-
----
-
 ## GitHub Stats
 
 <p align="center">
