@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/corvo-banner.svg?v=22"
+    src="./assets/corvo-banner.svg?v=23"
     width="1000"
     alt="Daniel Cuervo — Software, Robotics & Automation"
   />

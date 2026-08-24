@@ -150,11 +150,11 @@
       }
 
       @keyframes pupilMove {
-        0%, 30%   { transform: translate(0px,0px); }
-        42%       { transform: translate(7px,-1px); }
-        54%       { transform: translate(-6px,2px); }
-        66%       { transform: translate(4px,1px); }
-        78%,100%  { transform: translate(0px,0px); }
+        0%, 25%   { transform: translate(0px,0px); }
+        37%       { transform: translate(7px,-1px); }
+        49%       { transform: translate(-6px,2px); }
+        61%       { transform: translate(4px,1px); }
+        73%,100%  { transform: translate(0px,0px); }
       }
 
       .matrix-error {
