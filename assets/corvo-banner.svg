@@ -26,8 +26,17 @@
 
       .logo-stroke {
         fill: none;
-        stroke: #eff2ed;
-        stroke-width: 3;
+        stroke: #d2d7d8;
+        stroke-width: 1.9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        vector-effect: non-scaling-stroke;
+      }
+
+      .logo-accent {
+        fill: none;
+        stroke: #7fcf96;
+        stroke-width: 1.9;
         stroke-linecap: round;
         stroke-linejoin: round;
         vector-effect: non-scaling-stroke;
@@ -125,15 +134,27 @@
         50%,100% { opacity: 0; }
       }
 
-      .pupil {
-        opacity: 0;
-        animation: pupilReveal 20s ease-in-out infinite;
+      @keyframes pulse {
+        0%, 35%, 86%,100% { opacity: 0.55; transform: scale(0.96); }
+        48%, 70% { opacity: 1; transform: scale(1.04); }
       }
 
-      @keyframes pupilReveal {
-        0%, 7% { opacity: 0; }
-        10%, 86% { opacity: 1; }
-        96%,100% { opacity: 0; }
+      .pupil {
+        transform-origin: 150px 94.7px;
+        animation: pulse 20s ease-in-out infinite;
+      }
+
+      .eye-pupil {
+        transform-origin: 150px 94.7px;
+        animation: pupilMove 20s ease-in-out infinite;
+      }
+
+      @keyframes pupilMove {
+        0%, 30%   { transform: translate(0px,0px); }
+        42%       { transform: translate(7px,-1px); }
+        54%       { transform: translate(-6px,2px); }
+        66%       { transform: translate(4px,1px); }
+        78%,100%  { transform: translate(0px,0px); }
       }
 
       .matrix-error {
@@ -2288,27 +2309,29 @@
 
   <g class="mem-corrupt"><text class="mem-frag m1" x="84" y="76">ERROR 8277</text><text class="mem-frag m1" x="438" y="142">0O3 448</text><text class="mem-frag m1" x="760" y="214">1 0</text><text class="mem-frag m2" x="192" y="196">448</text><text class="mem-frag m2" x="548" y="86">ERROR</text><text class="mem-frag m2" x="830" y="276">8277 0</text></g><g class="main-content">
   
-  <g transform="translate(67,40) scale(.25)">
-    <path class="logo-stroke logo-draw" d="M312 452 C360 384 432 350 512 350 C592 350 664 384 713 453 C662 526 590 562 512 565 C434 562 362 526 312 452 Z" />
-    <circle class="logo-stroke logo-draw" cx="512" cy="456" r="57" />
-    <circle class="pupil" cx="512" cy="456" r="16" fill="#eff2ed" />
+  <g transform="translate(24,40) scale(1.14)">
+    <path class="logo-stroke logo-draw" d="M104 94.7 C115 79.5 132 69.5 150 69.5 C168 69.5 185 79.5 196 94.7 C185 109.2 169 119.5 150 119.5 C131 119.5 115 109.2 104 94.7 Z" />
+    <circle class="logo-stroke logo-draw" cx="150" cy="94.7" r="13.1" />
+    <circle class="logo-accent pupil eye-pupil" cx="150" cy="94.7" r="3.4" style="fill:#7fdc9a" />
 
-    <path class="logo-stroke ray-draw" d="M512 97 L512 300" />
-    <path class="logo-stroke ray-draw" d="M414 191 L450 303" />
-    <path class="logo-stroke ray-draw" d="M610 191 L574 303" />
-    <path class="logo-stroke ray-draw" d="M350 266 L389 326" />
-    <path class="logo-stroke ray-draw" d="M674 266 L635 326" />
+    <path class="logo-stroke ray-draw" d="M150 20 L150 57.7" />
+    <path class="logo-stroke ray-draw" d="M127.7 34.7 L135.7 58.3" />
+    <path class="logo-stroke ray-draw" d="M172.3 34.7 L164.3 58.5" />
+    <path class="logo-stroke ray-draw" d="M111.9 49.3 L121.1 64.4" />
+    <path class="logo-stroke ray-draw" d="M188.9 48.9 L179.1 64.4" />
 
-    <path class="logo-stroke logo-draw" d="M398 534 L396 620 M512 565 L512 677 M626 535 L628 620" />
+    <path class="logo-stroke logo-draw" d="M123.8 112.3 L123.4 132.8" />
+    <path class="logo-stroke logo-draw" d="M150 119.5 L150 145.9" />
+    <path class="logo-stroke logo-draw" d="M175.8 112.7 L176.2 132.8" />
 
-    <path class="logo-stroke logo-draw" d="M396 620 C336 660 348 740 396 800 C444 740 456 660 396 620 Z" />
-    <path class="logo-stroke logo-draw" d="M396 620 L396 800 M396 655 L363 681 M396 655 L429 681 M396 691 L365 731 M396 691 L427 730 M396 739 L377 775 M396 739 L415 775" />
+    <path class="logo-stroke logo-draw" d="M123.4 132.8 C112 141 112 157 123.4 171.3 C134.8 157 134.8 141 123.4 132.8 Z" />
+    <path class="logo-stroke logo-draw" d="M123.4 132.8 L123.4 171.3 M123.4 140 L115 147.7 M123.4 140 L131.4 147.1 M123.4 147.5 L116 156.7 M123.4 147.5 L130.8 157.1 M123.4 157 L118.5 164.5 M123.4 157 L128.3 164.5" />
 
-    <path class="logo-stroke logo-draw" d="M512 677 C456 745 456 860 512 946 C568 860 568 745 512 677 Z" />
-    <path class="logo-stroke logo-draw" d="M512 677 L512 946 M512 739 L472 799 M512 739 L552 799 M512 806 L478 854 M512 806 L546 854 M512 864 L490 904 M512 864 L534 904" />
+    <path class="logo-stroke logo-draw" d="M150 145.9 C136.5 160 137 181 150 204 C163 181 163.5 160 150 145.9 Z" />
+    <path class="logo-stroke logo-draw" d="M150 145.9 L150 204 M150 158.6 L140.8 173.9 M150 158.6 L159 174.1 M150 172.9 L142.4 183.7 M150 172.9 L157.4 183.9 M150 185 L145 195 M150 185 L155 195" />
 
-    <path class="logo-stroke logo-draw" d="M628 620 C568 660 580 740 628 800 C676 740 688 660 628 620 Z" />
-    <path class="logo-stroke logo-draw" d="M628 620 L628 800 M628 655 L595 681 M628 655 L661 681 M628 691 L597 730 M628 691 L659 731 M628 739 L609 775 M628 739 L647 775" />
+    <path class="logo-stroke logo-draw" d="M176.2 132.8 C164.8 141 164.8 157 176.2 171.3 C187.6 157 187.6 141 176.2 132.8 Z" />
+    <path class="logo-stroke logo-draw" d="M176.2 132.8 L176.2 171.3 M176.2 140 L168.6 147.1 M176.2 140 L184.6 147.7 M176.2 147.5 L168.8 157.1 M176.2 147.5 L183.6 156.7 M176.2 157 L171.3 164.5 M176.2 157 L181.1 164.5" />
   </g>
 
   
