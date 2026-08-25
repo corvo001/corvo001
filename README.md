@@ -6,7 +6,7 @@
   />
 </p>
 
-## GitHub Stats
+## Stats
 
 <p align="center">
   <img
