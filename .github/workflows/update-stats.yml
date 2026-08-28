@@ -1,0 +1,116 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-readme-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Prepare temporary directory
+        run: mkdir -p .stats-tmp
+
+      - name: Generate GitHub stats
+        id: stats_first_attempt
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+          path: .stats-tmp/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.1.5"
+          fail_on_error: true
+
+      - name: Wait before retrying GitHub stats
+        if: steps.stats_first_attempt.outcome == 'failure'
+        run: sleep 30
+
+      - name: Retry GitHub stats
+        if: steps.stats_first_attempt.outcome == 'failure'
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+          path: .stats-tmp/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.1.5"
+          fail_on_error: true
+
+      - name: Generate top languages
+        id: languages_first_attempt
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9"
+          path: .stats-tmp/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.1.5"
+          fail_on_error: true
+
+      - name: Wait before retrying top languages
+        if: steps.languages_first_attempt.outcome == 'failure'
+        run: sleep 30
+
+      - name: Retry top languages
+        if: steps.languages_first_attempt.outcome == 'failure'
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9"
+          path: .stats-tmp/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: "2.1.5"
+          fail_on_error: true
+
+      - name: Validate and publish cards
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for card in .stats-tmp/github-stats.svg .stats-tmp/top-languages.svg; do
+            test -s "$card"
+            grep -q '<svg' "$card"
+            grep -q '</svg>' "$card"
+
+            if grep -qi 'Something went wrong' "$card"; then
+              echo "Refusing to publish an error card: $card"
+              exit 1
+            fi
+          done
+
+          mv .stats-tmp/github-stats.svg assets/github-stats.svg
+          mv .stats-tmp/top-languages.svg assets/top-languages.svg
+
+          # Keeps regular repository activity to reduce the risk that GitHub
+          # disables the scheduled workflow after 60 inactive days.
+          date -u +'%G-W%V' > assets/.stats-heartbeat
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/github-stats.svg assets/top-languages.svg assets/.stats-heartbeat
+
+          if git diff --cached --quiet; then
+            echo "Cards are already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub stats"
+          git push
