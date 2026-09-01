@@ -100,10 +100,6 @@
         animation: cursor 1s steps(1,end) infinite;
       }
 
-      .text.green {
-        fill: var(--accent);
-      }
-
       .text {
         fill: var(--foreground);
         font-family: "IBM Plex Mono", "JetBrains Mono", "DejaVu Sans Mono", monospace;
@@ -2361,7 +2357,7 @@
 
   
   <g transform="translate(430,62)">
-    <text class="text green fade-1" x="0" y="28" font-size="18">&gt; CORVO_</text>
+    <text class="text fade-1" x="0" y="28" font-size="18">&gt; CORVO</text>
 
     <text class="text muted fade-2" x="0" y="72" font-size="16">
       Initializing systems...
