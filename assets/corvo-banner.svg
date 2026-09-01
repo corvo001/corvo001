@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d0f10" />
-      <stop offset="55%" stop-color="#151819" />
-      <stop offset="100%" stop-color="#0a0c0d" />
-    </linearGradient>
-
     <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="1.6" result="blur" />
       <feMerge>
@@ -16,9 +10,43 @@
     </filter>
 
     <style>
+      :root {
+        --foreground: #d6d9da;
+        --logo: #d2d7d8;
+        --accent: #7fdc9a;
+        --muted: #8f979a;
+        --divider: #2b3032;
+      }
+
+      @media (prefers-color-scheme: light) {
+        :root {
+          --foreground: #24292f;
+          --logo: #24292f;
+          --accent: #1a7f37;
+          --muted: #57606a;
+          --divider: #d0d7de;
+        }
+
+        .matrix-error,
+        .hack-storm,
+        .chaos-core,
+        .dense-lite,
+        .one-sec-overload,
+        .error-burst,
+        .blackout-burst,
+        .v-rot,
+        .hcut-v19,
+        .hvoid-v19,
+        .v21-pum,
+        .v24-burst,
+        .mem-corrupt {
+          filter: brightness(.55) saturate(1.25);
+        }
+      }
+
       .stroke {
         fill: none;
-        stroke: #d7dbdc;
+        stroke: var(--foreground);
         stroke-width: 2;
         stroke-linecap: round;
         stroke-linejoin: round;
@@ -26,7 +54,7 @@
 
       .logo-stroke {
         fill: none;
-        stroke: #d2d7d8;
+        stroke: var(--logo);
         stroke-width: 1.9;
         stroke-linecap: round;
         stroke-linejoin: round;
@@ -35,7 +63,7 @@
 
       .logo-accent {
         fill: none;
-        stroke: #7fcf96;
+        stroke: var(--accent);
         stroke-width: 1.9;
         stroke-linecap: round;
         stroke-linejoin: round;
@@ -67,22 +95,27 @@
       .fade-5 { animation-name: fade5; }
 
       .cursor {
+        fill: var(--accent);
         opacity: 0;
         animation: cursor 1s steps(1,end) infinite;
       }
 
-      .green {
-        fill: #7fdc9a;
+      .text.green {
+        fill: var(--accent);
       }
 
       .text {
-        fill: #d6d9da;
+        fill: var(--foreground);
         font-family: "IBM Plex Mono", "JetBrains Mono", "DejaVu Sans Mono", monospace;
         letter-spacing: 0.8px;
       }
 
       .muted {
-        fill: #8f979a;
+        fill: var(--muted);
+      }
+
+      .divider {
+        stroke: var(--divider);
       }
 
       @keyframes draw {
@@ -140,6 +173,7 @@
       }
 
       .pupil {
+        fill: var(--accent);
         transform-origin: 150px 94.7px;
         animation: pulse 20s ease-in-out infinite;
       }
@@ -1875,7 +1909,6 @@
   </defs>
 
   
-  <rect x="0" y="0" width="1000" height="320" fill="#0d1117" />
   <g class="matrix-error">
     <rect class="glitch-blackout" x="0" y="72" width="1000" height="32" />
     <rect class="glitch-blackout" x="0" y="143" width="1000" height="24" />
@@ -2035,7 +2068,6 @@
       <text x="790" y="152">NULL NULL NULL</text>
     </g>
 
-    <rect class="hard-flash" fill="#dffff0" x="0" y="0" width="1000" height="320" />
   </g>
 
 
@@ -2088,8 +2120,6 @@
 
   
   <g class="one-sec-overload">
-    <rect x="0" y="0" width="1000" height="320" fill="#000" opacity=".72" />
-
     
     
     
@@ -2169,15 +2199,12 @@
       <rect x="0" y="267" width="1000" height="14" />
     </g>
 
-    <rect class="error-flash" x="0" y="0" width="1000" height="320" />
   </g>
 
 
 
   
   <g class="blackout-burst">
-    <rect x="0" y="0" width="1000" height="320" fill="#000" opacity=".93" />
-
     
     
     
@@ -2250,8 +2277,6 @@
 
 
   <g class="v21-pum">
-    <rect x="0" y="0" width="1000" height="320" fill="#000" opacity=".88" />
-    
     <g class="v21-v">
       <rect x="15" y="0" width="2" height="320" /><rect x="46" y="0" width="3" height="320" /><rect x="77" y="0" width="4" height="320" /><rect x="108" y="0" width="5" height="320" /><rect x="139" y="0" width="6" height="320" /><rect x="170" y="0" width="2" height="320" /><rect x="201" y="0" width="3" height="320" /><rect x="232" y="0" width="4" height="320" /><rect x="263" y="0" width="5" height="320" /><rect x="294" y="0" width="6" height="320" /><rect x="325" y="0" width="2" height="320" /><rect x="356" y="0" width="3" height="320" /><rect x="387" y="0" width="4" height="320" /><rect x="418" y="0" width="5" height="320" /><rect x="449" y="0" width="6" height="320" /><rect x="480" y="0" width="2" height="320" /><rect x="511" y="0" width="3" height="320" /><rect x="542" y="0" width="4" height="320" /><rect x="573" y="0" width="5" height="320" /><rect x="604" y="0" width="6" height="320" /><rect x="635" y="0" width="2" height="320" /><rect x="666" y="0" width="3" height="320" /><rect x="697" y="0" width="4" height="320" /><rect x="728" y="0" width="5" height="320" /><rect x="759" y="0" width="6" height="320" /><rect x="790" y="0" width="2" height="320" /><rect x="821" y="0" width="3" height="320" /><rect x="852" y="0" width="4" height="320" /><rect x="883" y="0" width="5" height="320" /><rect x="914" y="0" width="6" height="320" /><rect x="945" y="0" width="2" height="320" /><rect x="976" y="0" width="3" height="320" />
     </g>
@@ -2272,8 +2297,6 @@
 
   
   <g class="v24-burst">
-    <rect x="0" y="0" width="1000" height="320" fill="#000" opacity=".90" />
-
     <g class="v24-vert">
       <rect x="0" y="0" width="1" height="320" /><rect x="18" y="0" width="2" height="320" /><rect x="36" y="0" width="3" height="320" /><rect x="54" y="0" width="4" height="320" /><rect x="72" y="0" width="5" height="320" /><rect x="90" y="0" width="1" height="320" /><rect x="108" y="0" width="2" height="320" /><rect x="126" y="0" width="3" height="320" /><rect x="144" y="0" width="4" height="320" /><rect x="162" y="0" width="5" height="320" /><rect x="180" y="0" width="1" height="320" /><rect x="198" y="0" width="2" height="320" /><rect x="216" y="0" width="3" height="320" /><rect x="234" y="0" width="4" height="320" /><rect x="252" y="0" width="5" height="320" /><rect x="270" y="0" width="1" height="320" /><rect x="288" y="0" width="2" height="320" /><rect x="306" y="0" width="3" height="320" /><rect x="324" y="0" width="4" height="320" /><rect x="342" y="0" width="5" height="320" /><rect x="360" y="0" width="1" height="320" /><rect x="378" y="0" width="2" height="320" /><rect x="396" y="0" width="3" height="320" /><rect x="414" y="0" width="4" height="320" /><rect x="432" y="0" width="5" height="320" /><rect x="450" y="0" width="1" height="320" /><rect x="468" y="0" width="2" height="320" /><rect x="486" y="0" width="3" height="320" /><rect x="504" y="0" width="4" height="320" /><rect x="522" y="0" width="5" height="320" /><rect x="540" y="0" width="1" height="320" /><rect x="558" y="0" width="2" height="320" /><rect x="576" y="0" width="3" height="320" /><rect x="594" y="0" width="4" height="320" /><rect x="612" y="0" width="5" height="320" /><rect x="630" y="0" width="1" height="320" /><rect x="648" y="0" width="2" height="320" /><rect x="666" y="0" width="3" height="320" /><rect x="684" y="0" width="4" height="320" /><rect x="702" y="0" width="5" height="320" /><rect x="720" y="0" width="1" height="320" /><rect x="738" y="0" width="2" height="320" /><rect x="756" y="0" width="3" height="320" /><rect x="774" y="0" width="4" height="320" /><rect x="792" y="0" width="5" height="320" /><rect x="810" y="0" width="1" height="320" /><rect x="828" y="0" width="2" height="320" /><rect x="846" y="0" width="3" height="320" /><rect x="864" y="0" width="4" height="320" /><rect x="882" y="0" width="5" height="320" /><rect x="900" y="0" width="1" height="320" /><rect x="918" y="0" width="2" height="320" /><rect x="936" y="0" width="3" height="320" /><rect x="954" y="0" width="4" height="320" /><rect x="972" y="0" width="5" height="320" /><rect x="990" y="0" width="1" height="320" />
     </g>
@@ -2303,7 +2326,6 @@
       <rect x="0" y="261" width="1000" height="31" />
     </g>
 
-    <rect class="v24-flash" x="0" y="0" width="1000" height="320" />
   </g>
 
 
@@ -2312,7 +2334,7 @@
   <g transform="translate(24,40) scale(1.14)">
     <path class="logo-stroke logo-draw" d="M104 94.7 C115 79.5 132 69.5 150 69.5 C168 69.5 185 79.5 196 94.7 C185 109.2 169 119.5 150 119.5 C131 119.5 115 109.2 104 94.7 Z" />
     <circle class="logo-stroke logo-draw" cx="150" cy="94.7" r="13.1" />
-    <circle class="logo-accent pupil eye-pupil" cx="150" cy="94.7" r="3.4" style="fill:#7fdc9a" />
+    <circle class="logo-accent pupil eye-pupil" cx="150" cy="94.7" r="3.4" />
 
     <path class="logo-stroke ray-draw" d="M150 20 L150 57.7" />
     <path class="logo-stroke ray-draw" d="M127.7 34.7 L135.7 58.3" />
@@ -2335,7 +2357,7 @@
   </g>
 
   
-  <line x1="390" y1="58" x2="390" y2="262" stroke="#2b3032" stroke-width="1" />
+  <line class="divider" x1="390" y1="58" x2="390" y2="262" stroke-width="1" />
 
   
   <g transform="translate(430,62)">
