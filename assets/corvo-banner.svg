@@ -12,7 +12,7 @@
     <style>
       :root {
         --foreground: #d6d9da;
-        --logo: #d2d7d8;
+        --logo: #eff2ed;
         --accent: #7fdc9a;
         --muted: #8f979a;
         --divider: #2b3032;
@@ -52,34 +52,11 @@
         stroke-linejoin: round;
       }
 
-      .logo-stroke {
-        fill: none;
-        stroke: var(--logo);
-        stroke-width: 1.9;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        vector-effect: non-scaling-stroke;
-      }
-
-      .logo-accent {
-        fill: none;
-        stroke: var(--accent);
-        stroke-width: 1.9;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        vector-effect: non-scaling-stroke;
-      }
-
-      .logo-draw {
-        stroke-dasharray: 600;
-        stroke-dashoffset: 600;
-        animation: draw 20s ease-in-out infinite;
-      }
-
-      .ray-draw {
-        stroke-dasharray: 80;
-        stroke-dashoffset: 80;
-        animation: rays 20s ease-in-out infinite;
+      .emblem {
+        fill: var(--logo);
+        transform-box: fill-box;
+        transform-origin: center;
+        animation: revealEmblem 20s ease-in-out infinite;
       }
 
       .fade-1, .fade-2, .fade-3, .fade-4, .fade-5 {
@@ -114,18 +91,11 @@
         stroke: var(--divider);
       }
 
-      @keyframes draw {
-        0%, 5%   { stroke-dashoffset: 600; opacity: 0; }
-        8%       { opacity: 1; }
-        22%, 86% { stroke-dashoffset: 0; opacity: 1; }
-        96%,100% { opacity: 0; }
-      }
-
-      @keyframes rays {
-        0%, 9%   { stroke-dashoffset: 80; opacity: 0; }
-        13%      { opacity: 1; }
-        26%, 86% { stroke-dashoffset: 0; opacity: 1; }
-        96%,100% { opacity: 0; }
+      @keyframes revealEmblem {
+        0%, 5% { opacity: 0; transform: translateY(3px) scale(.97); }
+        8% { opacity: .2; }
+        22%, 86% { opacity: 1; transform: translateY(0) scale(1); }
+        96%, 100% { opacity: 0; }
       }
 
       @keyframes fade1 {
@@ -161,30 +131,6 @@
       @keyframes cursor {
         0%, 49% { opacity: 1; }
         50%,100% { opacity: 0; }
-      }
-
-      @keyframes pulse {
-        0%, 35%, 86%,100% { opacity: 0.55; transform: scale(0.96); }
-        48%, 70% { opacity: 1; transform: scale(1.04); }
-      }
-
-      .pupil {
-        fill: var(--accent);
-        transform-origin: 150px 94.7px;
-        animation: pulse 20s ease-in-out infinite;
-      }
-
-      .eye-pupil {
-        transform-origin: 150px 94.7px;
-        animation: pupilMove 20s ease-in-out infinite;
-      }
-
-      @keyframes pupilMove {
-        0%, 25%   { transform: translate(0px,0px); }
-        37%       { transform: translate(7px,-1px); }
-        49%       { transform: translate(-6px,2px); }
-        61%       { transform: translate(4px,1px); }
-        73%,100%  { transform: translate(0px,0px); }
       }
 
       .matrix-error {
@@ -2327,29 +2273,8 @@
 
   <g class="mem-corrupt"><text class="mem-frag m1" x="84" y="76">ERROR 8277</text><text class="mem-frag m1" x="438" y="142">0O3 448</text><text class="mem-frag m1" x="760" y="214">1 0</text><text class="mem-frag m2" x="192" y="196">448</text><text class="mem-frag m2" x="548" y="86">ERROR</text><text class="mem-frag m2" x="830" y="276">8277 0</text></g><g class="main-content">
   
-  <g transform="translate(24,40) scale(1.14)">
-    <path class="logo-stroke logo-draw" d="M104 94.7 C115 79.5 132 69.5 150 69.5 C168 69.5 185 79.5 196 94.7 C185 109.2 169 119.5 150 119.5 C131 119.5 115 109.2 104 94.7 Z" />
-    <circle class="logo-stroke logo-draw" cx="150" cy="94.7" r="13.1" />
-    <circle class="logo-accent pupil eye-pupil" cx="150" cy="94.7" r="3.4" />
-
-    <path class="logo-stroke ray-draw" d="M150 20 L150 57.7" />
-    <path class="logo-stroke ray-draw" d="M127.7 34.7 L135.7 58.3" />
-    <path class="logo-stroke ray-draw" d="M172.3 34.7 L164.3 58.5" />
-    <path class="logo-stroke ray-draw" d="M111.9 49.3 L121.1 64.4" />
-    <path class="logo-stroke ray-draw" d="M188.9 48.9 L179.1 64.4" />
-
-    <path class="logo-stroke logo-draw" d="M123.8 112.3 L123.4 132.8" />
-    <path class="logo-stroke logo-draw" d="M150 119.5 L150 145.9" />
-    <path class="logo-stroke logo-draw" d="M175.8 112.7 L176.2 132.8" />
-
-    <path class="logo-stroke logo-draw" d="M123.4 132.8 C112 141 112 157 123.4 171.3 C134.8 157 134.8 141 123.4 132.8 Z" />
-    <path class="logo-stroke logo-draw" d="M123.4 132.8 L123.4 171.3 M123.4 140 L115 147.7 M123.4 140 L131.4 147.1 M123.4 147.5 L116 156.7 M123.4 147.5 L130.8 157.1" />
-
-    <path class="logo-stroke logo-draw" d="M150 145.9 C136.5 160 137 181 150 204 C163 181 163.5 160 150 145.9 Z" />
-    <path class="logo-stroke logo-draw" d="M150 145.9 L150 204 M150 158.6 L140.8 173.9 M150 158.6 L159 174.1 M150 172.9 L142.4 183.7 M150 172.9 L157.4 183.9" />
-
-    <path class="logo-stroke logo-draw" d="M176.2 132.8 C164.8 141 164.8 157 176.2 171.3 C187.6 157 187.6 141 176.2 132.8 Z" />
-    <path class="logo-stroke logo-draw" d="M176.2 132.8 L176.2 171.3 M176.2 140 L168.6 147.1 M176.2 140 L184.6 147.7 M176.2 147.5 L168.8 157.1 M176.2 147.5 L183.6 156.7" />
+  <g class="emblem">
+    <path transform="translate(20.2 74.1) scale(.1954)" fill-rule="evenodd" d="M 369.917,384.000 C 408.964,382.198 449.008,384.845 488.000,387.160 C 515.057,388.767 542.008,390.770 569.000,393.065 C 629.636,398.221 690.920,407.088 749.000,425.166 C 787.463,437.138 826.298,453.832 854.233,484.000 C 871.218,502.342 882.173,523.700 891.000,546.714 C 898.467,535.814 904.568,522.686 911.595,511.000 C 922.673,492.578 935.302,474.762 945.000,455.548 C 950.303,445.042 958.000,429.817 945.723,421.000 C 939.605,416.606 931.238,415.537 924.000,414.510 C 909.459,412.448 895.059,412.961 880.443,414.000 C 875.094,414.380 867.994,416.304 862.770,415.000 C 862.173,414.851 864.556,413.889 864.000,413.625 C 972.248,373.816 1083.503,340.975 1196.000,313.124 C 1234.142,303.681 1272.502,295.843 1311.000,288.094 C 1345.969,281.055 1382.218,274.821 1418.000,273.901 C 1418.341,273.892 1418.659,274.125 1419.000,274.121 C 1404.399,277.852 1388.681,279.568 1373.717,283.000 C 1346.448,289.254 1319.526,297.413 1292.865,306.000 C 1195.238,337.444 1102.947,386.290 1022.000,449.368 C 968.473,491.079 916.727,543.086 887.669,605.000 C 887.202,604.482 885.991,605.562 885.577,605.000 C 883.532,602.222 882.531,597.510 881.000,594.325 C 876.338,584.624 870.993,574.995 865.000,566.019 C 848.729,541.650 826.781,519.859 803.000,502.812 C 711.305,437.085 593.673,412.574 484.000,396.989 C 458.421,393.354 432.715,390.551 407.000,387.755 C 394.697,386.417 381.957,386.686 369.917,384.000 Z" />
   </g>
 
   
