@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/corvo-banner.svg?v=26"
+    src="./assets/corvo-eye-banner.svg"
     width="1000"
     alt="Daniel Cuervo — Desarrollador tecnológico · CORVO"
   />
